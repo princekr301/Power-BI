@@ -4,3 +4,4 @@ Power BI can set up granular security, including row-level access filters to ens
 <h1 align="center">
  <img src="https://biworld.ca/wp-content/uploads/2020/06/power-bi-1-1.jpg" />
 </h1>
+# $Thanks For watching My Profile$
