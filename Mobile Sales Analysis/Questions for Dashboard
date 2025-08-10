@@ -1,0 +1,55 @@
+
+1. Create a card to show the sum of qty
+2. Create a Card to show the Most Expensive Mobile Brand
+3. Create  a Card and show Total Number Of brands
+4. Create a Card to show Maximum Rating
+5. Create a Slicer of Brand
+6. Create a Slicer of Processor
+---------------------------------------------------------
+Graphs
+---------------------------------------------------------
+1. Show the Average Sales Price By each Screen Size in Bar chart
+
+2. Show the Top 10 Model With his maximum Sales Price Column chart.
+
+3. Show the Sum of Qty by each Brand in Pie chart
+
+4. Show the sum of Number of ratings by each Processor
+
+5. Create a Line Chart to show the minimum Sales Price and
+    Minimum Number of Ratings by each RAM
+6. Show the sum of Qty by each Base Color
+
+----------------------------------------------------------
+Case Study
+----------------------------------------------------------
+7. Create A Status with Dax if Sales Price is Greater than
+   50k then show Expensive else show Normal
+   and Represent in Donut chart
+
+8. Create Battery Backup column with DAX if Brand is Apple
+   or Samsung and battery Capacity Greater than 35000 then
+	"High" else show "Low"
+   and represent in Donut Chart
+
+9. Create a Matrix To show the sum of Qty by Brand
+	And Show Qty in Different-Different Column By 
+	Base Color
+
+----------------------------------------------------------
+More
+----------------------------------------------------------
+1. Enter Insights of Your Reports
+
+2. Use Action Button and Bookmarks for Better Representation
+
+
+Thank You
+ 
+
+
+
+
+
+
+
