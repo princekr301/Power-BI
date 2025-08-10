@@ -28,7 +28,7 @@ Case Study
    and Represent in Donut chart
 
 8. Create Battery Backup column with DAX if Brand is Apple
-   or Samsung and battery Capacity Greater than 35000 then
+   or Samsung and battery Capacity Greater than 3500 then
 	"High" else show "Low"
    and represent in Donut Chart
 
